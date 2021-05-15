@@ -1,0 +1,30 @@
+{
+  "image": {
+    "ports": [
+      "30305:30305/udp",
+      "30305:30305"
+    ],
+    "environment": [
+      "EXTRA_OPTS="
+    ],
+    "volumes": [
+      "data:/data"
+    ],
+    "restart": "always",
+    "path": "xdai.avado.dnp.dappnode.eth_1.0.0.tar.xz",
+    "hash": "/ipfs/QmYKxEsJD61NmhY18cNsabzjxthG1YeS733v5efb2DzvCd",
+    "size": 10731948
+  },
+  "name": "xdai.avado.dnp.dappnode.eth",
+  "version": "1.0.0",
+  "shortDescription": "XDAI node - based on OpenEthereum",
+  "description": "This package syncs an xdai node on your AVADO",
+  "type": "service",
+  "author": "AVADO",
+  "license": "GPL-3.0",
+  "avatar": "/ipfs/QmeoNHXsxMWTJvCKSA5gjmbq3uZT9pWANMbSxapHArWpqJ",
+  "autoupdate": true,
+  "upstream": "v3.2.5",
+  "title": "XDAI node",
+  "builddate": "2021-05-10T13:30:50.650Z"
+}
