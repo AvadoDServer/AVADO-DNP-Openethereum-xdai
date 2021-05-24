@@ -1,7 +1,7 @@
 version: '3.4'
 services:
   xdai.avado.dnp.dappnode.eth:
-    image: 'xdai.avado.dnp.dappnode.eth:1.0.0'
+    image: 'xdai.avado.dnp.dappnode.eth:1.0.1'
     build: ./build
     volumes:
       - 'data:/home/openethereum/.local/share/io.parity.ethereum'
