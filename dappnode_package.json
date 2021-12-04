@@ -12,8 +12,8 @@
     ],
     "restart": "always",
     "path": "xdai.avado.dnp.dappnode.eth_1.0.3.tar.xz",
-    "hash": "/ipfs/QmVs4AKufbF3mEn4MPNLU492EC62U2X5bhTAS4oT27wikQ",
-    "size": 10803008
+    "hash": "/ipfs/QmSh5X7zNRhVShAyraaoWuBJjnVmDZmTSjBtqi8Tv2F1h4",
+    "size": 10786900
   },
   "name": "xdai.avado.dnp.dappnode.eth",
   "version": "1.0.3",
@@ -26,5 +26,5 @@
   "autoupdate": true,
   "upstream": "v3.3.0",
   "title": "XDAI node",
-  "builddate": "2021-11-23T18:49:00.600Z"
+  "builddate": "2021-11-23T18:57:29.519Z"
 }
