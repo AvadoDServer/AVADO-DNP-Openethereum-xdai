@@ -12,8 +12,8 @@
     ],
     "restart": "always",
     "path": "xdai.avado.dnp.dappnode.eth_1.0.4.tar.xz",
-    "hash": "/ipfs/QmcCW4RvWFffPtizGKAe4xhu51JNMveeDKt8UedbReH9DN",
-    "size": 10793500
+    "hash": "/ipfs/QmSiyHv8u1vsap4gYv2MT5rmSpd4yyU6aDoCjfFA1tQUsY",
+    "size": 10784112
   },
   "name": "xdai.avado.dnp.dappnode.eth",
   "version": "1.0.4",
@@ -26,5 +26,5 @@
   "autoupdate": true,
   "upstream": "v3.3.0",
   "title": "Gnosis Chain node",
-  "builddate": "2022-01-22T21:35:28.945Z"
+  "builddate": "2022-01-22T22:01:44.618Z"
 }
