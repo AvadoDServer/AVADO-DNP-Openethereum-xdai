@@ -11,9 +11,9 @@
       "data:/data"
     ],
     "restart": "always",
-    "path": "",
-    "hash": "",
-    "size": ""
+    "path": "xdai.avado.dnp.dappnode.eth_1.0.4.tar.xz",
+    "hash": "/ipfs/QmcCW4RvWFffPtizGKAe4xhu51JNMveeDKt8UedbReH9DN",
+    "size": 10793500
   },
   "name": "xdai.avado.dnp.dappnode.eth",
   "version": "1.0.4",
@@ -22,9 +22,9 @@
   "type": "service",
   "author": "AVADO",
   "license": "GPL-3.0",
-  "avatar": "/ipfs/QmeoNHXsxMWTJvCKSA5gjmbq3uZT9pWANMbSxapHArWpqJ",
+  "avatar": "/ipfs/QmVAqwNGshv5eNQTbS33XhB9vvBrEZFrNAWCD95vsJE2yh",
   "autoupdate": true,
   "upstream": "v3.3.0",
   "title": "XDAI node",
-  "builddate": "2022-01-22T21:35:28.945Z"
+  "builddate": "2022-01-22T21:40:04.830Z"
 }
