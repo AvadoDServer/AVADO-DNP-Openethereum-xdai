@@ -11,12 +11,12 @@
       "data:/data"
     ],
     "restart": "always",
-    "path": "xdai.avado.dnp.dappnode.eth_1.0.3.tar.xz",
-    "hash": "/ipfs/QmSh5X7zNRhVShAyraaoWuBJjnVmDZmTSjBtqi8Tv2F1h4",
-    "size": 10786900
+    "path": "",
+    "hash": "",
+    "size": ""
   },
   "name": "xdai.avado.dnp.dappnode.eth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "shortDescription": "XDAI node - based on OpenEthereum",
   "description": "This package syncs an xdai node on your AVADO",
   "type": "service",
@@ -26,5 +26,5 @@
   "autoupdate": true,
   "upstream": "v3.3.0",
   "title": "XDAI node",
-  "builddate": "2021-11-23T18:57:29.519Z"
+  "builddate": "2022-01-22T21:35:28.945Z"
 }
