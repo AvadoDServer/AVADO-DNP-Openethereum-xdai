@@ -1,14 +1,13 @@
 version: '3.4'
 services:
   xdai.avado.dnp.dappnode.eth:
-    image: 'xdai.avado.dnp.dappnode.eth:1.0.3'
+    image: 'xdai.avado.dnp.dappnode.eth:1.0.4'
     build: ./build
     volumes:
       - 'data:/home/openethereum/.local/share/io.parity.ethereum'
     ports:
-      - 30305
-      - 8545
-      - 30305/udp
+      - '30305:30305'
+      - '30305:30305/udp'
     restart: always
     environment:
       - EXTRA_OPTS=
