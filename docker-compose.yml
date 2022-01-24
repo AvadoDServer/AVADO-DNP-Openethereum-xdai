@@ -1,7 +1,7 @@
 version: '3.4'
 services:
   xdai.avado.dnp.dappnode.eth:
-    image: 'xdai.avado.dnp.dappnode.eth:1.0.5'
+    image: 'xdai.avado.dnp.dappnode.eth:1.0.6'
     build: ./build
     volumes:
       - 'data:/home/openethereum/.local'
