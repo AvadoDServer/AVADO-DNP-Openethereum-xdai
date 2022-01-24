@@ -4,7 +4,7 @@ services:
     image: 'xdai.avado.dnp.dappnode.eth:1.0.5'
     build: ./build
     volumes:
-      - 'data:/root/.local'
+      - 'data:/home/openethereum/.local'
     ports:
       - '30305:30305'
       - '30305:30305/udp'
