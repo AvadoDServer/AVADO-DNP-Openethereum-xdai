@@ -8,7 +8,7 @@
       "EXTRA_OPTS="
     ],
     "volumes": [
-      "data:/root/.local"
+      "data:/home/ethereum/.local"
     ],
     "restart": "always"
   },
