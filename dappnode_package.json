@@ -8,7 +8,7 @@
       "EXTRA_OPTS="
     ],
     "volumes": [
-      "data:/home/ethereum/.local"
+      "data:/home/openethereum/.local"
     ],
     "restart": "always",
     "size": 10780080
