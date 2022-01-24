@@ -10,7 +10,8 @@
     "volumes": [
       "data:/home/ethereum/.local"
     ],
-    "restart": "always"
+    "restart": "always",
+    "size": 10780080
   },
   "name": "xdai.avado.dnp.dappnode.eth",
   "version": "1.0.6",
@@ -22,5 +23,6 @@
   "avatar": "/ipfs/QmVAqwNGshv5eNQTbS33XhB9vvBrEZFrNAWCD95vsJE2yh",
   "autoupdate": true,
   "upstream": "v3.3.0",
-  "title": "Gnosis Chain node"
+  "title": "Gnosis Chain node",
+  "builddate": "2022-01-24T13:29:22.809Z"
 }
