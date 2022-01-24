@@ -14,5 +14,4 @@ ENTRYPOINT /home/openethereum/openethereum \
   --ws-hosts=all \
   --ws-max-connections=10 \
   --max-peers=100 \
-  --base-path=/data/openethereum \
   ${EXTRA_OPTS}
